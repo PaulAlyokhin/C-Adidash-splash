@@ -1,0 +1,11 @@
+E:\adidas\GenerateLicense\GenerateLicense\bin\Debug\GenerateLicense.exe.config
+E:\adidas\GenerateLicense\GenerateLicense\bin\Debug\GenerateLicense.exe
+E:\adidas\GenerateLicense\GenerateLicense\bin\Debug\GenerateLicense.pdb
+E:\adidas\GenerateLicense\GenerateLicense\bin\Debug\FoxLearn.License.dll
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.csprojResolveAssemblyReference.cache
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.Form1.resources
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.Properties.Resources.resources
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.csproj.GenerateResource.Cache
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.csproj.CoreCompileInputs.cache
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.exe
+E:\adidas\GenerateLicense\GenerateLicense\obj\Debug\GenerateLicense.pdb
